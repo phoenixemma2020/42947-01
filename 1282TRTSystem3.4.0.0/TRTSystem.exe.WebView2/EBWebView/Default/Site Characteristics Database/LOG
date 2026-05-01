@@ -1,2 +1,3 @@
-2026/04/28-12:15:18.764 27c8 Creating DB D:\42947-01\1282TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Site Characteristics Database since it was missing.
-2026/04/28-12:15:18.812 27c8 Reusing MANIFEST D:\42947-01\1282TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/05/01-08:22:18.005 242c Reusing MANIFEST D:\42947-01\1282TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/05/01-08:22:18.009 242c Recovering log #3
+2026/05/01-08:22:18.010 242c Reusing old log D:\42947-01\1282TRTSystem3.4.0.0\TRTSystem.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log 
